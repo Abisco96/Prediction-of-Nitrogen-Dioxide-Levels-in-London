@@ -104,3 +104,21 @@ pip install -r requirements.txt
 
 # Run the notebook
 jupyter notebook
+
+```
+## ⭐ Final Note
+
+This project demonstrates:
+
+Data analysis & machine learning skills
+
+Real-world environmental problem solving
+
+Ability to work with large, time-series datasets
+
+## 👩🏽‍💻 Author
+
+Abigail Frimpong
+
+MSc Internet of Things & Future Networks
+
